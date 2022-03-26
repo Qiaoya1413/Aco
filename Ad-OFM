@@ -1,0 +1,9 @@
+HOST,adstats.tencentmusic.com,REJECT
+HOST,adcdn.tencentmusic.com,REJECT
+HOST,adexpo.tencentmusic.com,REJECT
+HOST,adclick.tencentmusic.com,REJECT
+HOST,p.l.qq.com,REJECT
+HOST,sdk.e.qq.com,REJECT
+HOST,oth.bls.mdt.qq.com,REJECT
+HOST-SUFFIX,sngdia.imtmp.net,REJECT
+HOST-SUFFIX,dss0.bdstatic.com,REJECT
