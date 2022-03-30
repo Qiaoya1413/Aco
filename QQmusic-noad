@@ -6,4 +6,6 @@ HOST,p.l.qq.com,REJECT
 HOST,sdk.e.qq.com,REJECT
 HOST,oth.bls.mdt.qq.com,REJECT
 HOST-SUFFIX,sngdia.imtmp.net,REJECT
+
+#baidu map
 HOST-SUFFIX,dss0.bdstatic.com,REJECT
